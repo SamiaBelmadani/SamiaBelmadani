@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @SamiaBelmadani
 - 👀 I’m interested in leveraging data analytics to perform data-driven decision making, as I believe it offers valuable insights.
-- 🌱 I’m currently learning SQL, R, Python, ML Models, Visualization & Optimization.
-- 💞️ I’m looking to collaborate on further data science applications. 
+- 🌱 I am currently enrolled in the Master of Management of Analytics program at McGill University.
 - 📫 How to reach me: https://www.linkedin.com/in/samiabelmadani/
-- 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love collecting vinyl records.
 
 <!---
